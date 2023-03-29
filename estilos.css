@@ -17,3 +17,30 @@ canvas {
     margin-top: 1rem;
     box-shadow: 0.4rem 0.4rem 0.2rem #000a;
 }
+
+button {
+    padding: 0.9rem;
+    background-color: #00445f;
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+    font-size: 1.5rem;
+    text-shadow: 0.1rem 0.1rem black;
+    box-shadow: 0.2rem 0.2rem black;
+}
+
+button:hover {
+    background-color: #01658d;
+}
+
+button.active {
+    background-color: #018d53;
+}
+
+a {
+    color: #26b4ec;
+}
+
+.botonera {
+    margin-bottom: 2rem;
+}
