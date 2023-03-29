@@ -1,0 +1,19 @@
+body {
+    background: #000;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+canvas {
+    background: #111;
+    max-width: 1024px;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0.4rem 0.4rem 0.2rem #000a;
+}
